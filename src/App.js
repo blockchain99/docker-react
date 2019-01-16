@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-           changed for feature1 branch: welcome brtanch1
+           changed with git push origin feature1: Hi brtanch1!!!
           </p>
           
         </header>
