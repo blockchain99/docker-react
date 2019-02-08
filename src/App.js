@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-           changed for master branch: Hello !!!
+           changed for master branch updated : Hi !!!
           </p>
           
         </header>
